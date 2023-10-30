@@ -1,5 +1,5 @@
 # numpycomplete.github.io
-# NumPy Complete
+### NumPy Complete
 
 ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
 
