@@ -1,7 +1,7 @@
 # numpycomplete.github.io
 # NumPy Complete
 
-![NumPy Logo](numpy-logo.png)
+![NumPy Logo]([numpy-logo.png](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg))
 
 Welcome to the NumPy Complete repository! This repository is dedicated to providing comprehensive resources, examples, and tutorials related to NumPy, the fundamental package for scientific computing with Python.
 
